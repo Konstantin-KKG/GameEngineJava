@@ -15,6 +15,4 @@ public class LifetimeManager {
     public static void RemoveObjectFromScene(GameObject object) {
         testScene.RemoveObject(object);
     }
-
-    // TODO: Collect gameObjects of active scenes
 }

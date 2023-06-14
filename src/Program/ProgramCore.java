@@ -1,5 +1,8 @@
 package Program;
 
+import Objects.GameObject;
+import java.util.ArrayList;
+
 public class ProgramCore extends Thread {
     boolean running = true;
 
@@ -19,6 +22,8 @@ public class ProgramCore extends Thread {
             deltaU += (currentTime - initialTime) / timeU;
             deltaF += (currentTime - initialTime) / timeF;
             initialTime = currentTime;
+
+            gameStart();
 
             // Update
             if (deltaU >= 1) {
@@ -53,18 +58,29 @@ public class ProgramCore extends Thread {
     }
 
     private void gameStart() {
-        // TODO
+        for (GameObject obj : LifetimeManager.testScene.gameObjects) {
+            obj.start();
+        }
     }
 
+    private ArrayList<GameObject> activeGameObjects;
     private void gameUpdate() {
-        // TODO
+        activeGameObjects = LifetimeManager.testScene.gameObjects;
+
+        for (GameObject gameObject : activeGameObjects) {
+            gameObject.update();
+        }
     }
 
     private void gameLateUpdate() {
-        // TODO
+        for (GameObject gameObject : activeGameObjects) {
+            gameObject.lateUpdate();
+        }
     }
 
     private void gameDraw() {
-        // TODO
+        for (GameObject gameObject : activeGameObjects) {
+            gameObject.draw();
+        }
     }
 }
