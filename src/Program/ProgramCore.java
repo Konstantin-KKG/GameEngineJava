@@ -53,18 +53,18 @@ public class ProgramCore extends Thread {
     }
 
     private void gameStart() {
-
+        // TODO
     }
 
     private void gameUpdate() {
-
+        // TODO
     }
 
     private void gameLateUpdate() {
-
+        // TODO
     }
 
     private void gameDraw() {
-
+        // TODO
     }
 }
