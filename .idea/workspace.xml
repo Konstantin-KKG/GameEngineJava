@@ -1,43 +1,204 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fba90db5-2752-4cff-b92c-78720b3c005d" name="Changes" comment="" />
+    <list default="true" id="3f54eb71-e2c1-42fb-a2b6-f39e603fd1d8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/in_userlib1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/Bibs/in extensions/SuMAkzeptor.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/Bibs/in extensions/SuMGenerator.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/Bibs/in extensions/SuMTransduktor.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/Bibs/in userlib/QTJava.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/Bibs/in userlib/SuMEreignis.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/Bibs/in userlib/SuMKern.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/Bibs/in userlib/SuMKomponenten.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/Bibs/in userlib/SuMMultimedia.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/Bibs/in userlib/SuMNetz.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/Bibs/in userlib/SuMSQL.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/Bibs/in userlib/SuMStrukturen.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/Bibs/in userlib/SuMWerkzeuge.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/Bibs/in userlib/libQTJNative.jnilib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/Bibs/in userlib/mysql-connector-java-5.1.15-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/Bibs/in userlib/xpp3_min-1.1.3.4.I.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/Bibs/in userlib/xstream-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/bluej.defs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/allclasses-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/allclasses-noframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/index-all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/logfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/overview-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/overview-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/package-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/resources/inherit.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/serialized-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/ereignis/Bildschirm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/ereignis/Buntstift.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/ereignis/EBAnwendung.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/ereignis/Ereignisanwendung.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/ereignis/Ereignisbearbeiter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/ereignis/Farbe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/ereignis/Fenster.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/ereignis/Muster.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/ereignis/Schrift.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/ereignis/Stift.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/ereignis/Zeichen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/ereignis/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/ereignis/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/ereignis/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/kern/Bildschirm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/kern/Buntstift.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/kern/Eingabe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/kern/Farbe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/kern/Fenster.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/kern/Maus.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/kern/Muster.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/kern/Schrift.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/kern/Stift.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/kern/Tastatur.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/kern/Warnung.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/kern/Zeichen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/kern/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/kern/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/kern/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/komponenten/Ausrichtung.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/komponenten/Auswahl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/komponenten/Etikett.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/komponenten/Fortschrittsbalken.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/komponenten/Kennwortfeld.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/komponenten/Knopf.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/komponenten/Komponente.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/komponenten/Markierungskomponente.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/komponenten/Menue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/komponenten/Radiogruppe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/komponenten/Radioknopf.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/komponenten/Regler.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/komponenten/Schalter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/komponenten/Tabelle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/komponenten/Textbereich.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/komponenten/Textfeld.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/komponenten/Textkomponente.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/komponenten/Zeichenbereich.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/komponenten/Zeilenbereich.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/komponenten/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/komponenten/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/komponenten/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/multimedia/Bild.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/multimedia/Film.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/multimedia/Ton.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/multimedia/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/multimedia/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/multimedia/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/netz/Clientempfaenger.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/netz/Clientverbindung.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/netz/Server.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/netz/Serververbindung.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/netz/Verbindung.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/netz/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/netz/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/netz/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/sql/Datenbank.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/sql/SQLErgebnisliste.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/sql/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/sql/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/sql/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/strukturen/Baum.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/strukturen/Binaerbaum.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/strukturen/Feld.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/strukturen/Hashtabelle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/strukturen/Liste.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/strukturen/Ordnungsklasse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/strukturen/Ordnungsobjekt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/strukturen/Schlange.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/strukturen/Schluesselobjekt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/strukturen/Stapel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/strukturen/Suchbaum.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/strukturen/SuchbaumInhalt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/strukturen/Suchbinaerbaum.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/strukturen/Tabelle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/strukturen/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/strukturen/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/strukturen/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/werkzeuge/Animation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/werkzeuge/Rechner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/werkzeuge/Textwerkzeug.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/werkzeuge/Uhr.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/werkzeuge/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/werkzeuge/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/doc/sum/werkzeuge/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/german/dialogues" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/german/exception.help" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/german/javac.help" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/german/labels" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/german/moe.help" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/german/templates/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/german/templates/html.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/german/templates/method.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/german/templates/newclass/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/german/templates/newclass/SuMAnwendung.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/german/templates/newclass/SuMKern.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/german/templates/newclass/SuMProgramm.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/german/templates/newclass/abstract.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/german/templates/newclass/appletj.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/german/templates/newclass/appletsum.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/german/templates/newclass/enum.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/german/templates/newclass/interface.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/german/templates/newclass/midlet.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/german/templates/newclass/stdclass.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/german/templates/newclass/unittest.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/SuMWin 7.3.1/german/templates/readme.tmpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/in_userlib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameEngineJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GameEngineJava.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
+  <component name="ProjectId" id="2U3ykGZhI9EXlF9Q6fuagjPznPD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectId" id="2MBouP2wKqsqOX1Fhvy3bV32hxK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/elote/Desktop/Billard&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/Root/Programing/IntelliJ Projects/GameEngineJava/libraries/SuMWin 7.3.1/Bibs/in userlib",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Launcher" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Engine.Core.Launcher" />
-      <module name="EngineTest" />
+      <module name="GameEngineJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -46,25 +207,19 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fba90db5-2752-4cff-b92c-78720b3c005d" name="Changes" comment="" />
-      <created>1677250562299</created>
+      <changelist id="3f54eb71-e2c1-42fb-a2b6-f39e603fd1d8" name="Changes" comment="" />
+      <created>1692182704228</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1677250562299</updated>
-      <workItem from="1677250563725" duration="1365000" />
-      <workItem from="1677256451365" duration="11374000" />
-      <workItem from="1677274433734" duration="6589000" />
-      <workItem from="1677289554810" duration="961000" />
-      <workItem from="1677326763609" duration="3290000" />
-      <workItem from="1677339449320" duration="27980000" />
-      <workItem from="1677378159150" duration="325000" />
-      <workItem from="1677421762599" duration="11559000" />
-      <workItem from="1677448266866" duration="2897000" />
-      <workItem from="1677878562439" duration="36000" />
+      <updated>1692182704228</updated>
+      <workItem from="1692182704926" duration="731000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

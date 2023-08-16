@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="in userlib1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/libraries/SuMWin 7.3.1/Bibs/in userlib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/libraries/SuMWin 7.3.1/Bibs/in userlib" recursive="false" />
+  </library>
+</component>
